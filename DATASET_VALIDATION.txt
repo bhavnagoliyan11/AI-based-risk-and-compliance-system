@@ -1,0 +1,15 @@
+RiskIntel AI — Milestone 2 Dataset Validation
+==============================================
+File: dataset_riskintel_m2_1000.csv
+Rows: 1000
+Columns: 43
+Null values: 0
+Duplicate rows: 0
+Date field: period_start
+Primary future target: next_month_total_expenditure
+Explicit horizon targets:
+  - next_day_total_expenditure
+  - next_7d_total_expenditure
+  - next_month_total_expenditure
+
+The dataset is controlled synthetic data for a prototype/demo. It is not a real-world financial or medical dataset.
